@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  DURL: https://worst-generation.prajwals.workers.dev/0:/CherishOS-V2.9-Mod-By-Subhendu.zip
+  DURL: https://drive.vaibhavyadav.tk/0:/Thor%20-%20Love%20&%20Thunder.mkv
   TZ: Asia/Kolkata
   MIR: bit
   EXT: zip
